@@ -1,0 +1,6 @@
+[package]
+name = "sql_db_hard_way"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
